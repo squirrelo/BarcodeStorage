@@ -54,7 +54,7 @@ coverage.xml
 docs/_build/
 
 #Project stuff
-ag_config.txt
+config.txt
 
 # vi(m) swap and temp files
 *.swp
